@@ -25,7 +25,7 @@ This project was created as part of my learning in **game development and progra
 ---
 
 ## 🛠️ Tools & Technologies
-- **Unity Engine** (2D Project)  
+- **Unity Engine** (3D Project)  
 - **C# Programming Language**  
 - **Visual Studio** (for scripting)  
 - **GitHub** (for version control)
